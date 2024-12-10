@@ -1,8 +1,9 @@
 # charla-json-2024
 ### Librerías que se deben instalar
 
-* pip install jupyter-lab
+* pip install jupyterlab
 
 ### Levantar jupyter-lab
 
-* jupyterlab
+* jupyter-lab
+
